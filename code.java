@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
 
-    String str = "madamsirr", reverseStr = "";
+    String str = "madamsir", reverseStr = "";
     
     int strLength = str.length();
 
